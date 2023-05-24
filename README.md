@@ -11,6 +11,7 @@ API developed for study purposes, using node js, JWT and mongo db, via atlas, to
 <table>
   <tr>
     <td>Node.js</td>
+    <td>Express</td>
     <td>JWT</td>
     <td>MongoDB</td>
   </tr>
